@@ -1,6 +1,8 @@
 Project Overview:
 As a data analyst for Telecom, I aim to utilize the available customer and device information along with revenue data to gain insights that can enhance business operations and improve sales revenue growth. The main focus will be to understand the characteristics of high-value customers, identify patterns and trends in mobile and IoT device usage, and analyze the relationship between device usage and revenue. The results will help to better target marketing and sales efforts, optimize device offerings, and increase customer satisfaction.
 
+Dataset link: https://www.kaggle.com/datasets/krishnacheedella/telecom-iot-crm-dataset?select=rev1.csv 
+
 Analysis Approach:
 The project will include four main analyses:
 
